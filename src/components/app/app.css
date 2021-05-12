@@ -1,0 +1,4 @@
+.app {
+  background: url("food-bg.jpg") center center/cover no-repeat;
+  min-height: 180vh;
+}
